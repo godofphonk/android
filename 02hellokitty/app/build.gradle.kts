@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.a02hellokitty"
-    compileSdk = 36
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "com.example.a02hellokitty"
         minSdk = 23
-        targetSdk = 36
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
